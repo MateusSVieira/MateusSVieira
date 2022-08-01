@@ -2,7 +2,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uninter.com/">Uninter</a>.
-- 💼 &nbsp; Estagiário **Consultoria** na <a href="https://www.lg.com.br/">LG Lugar de Gente</a>
 - 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS e Javascript**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -27,6 +26,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Mateus Vieira](https://img.shields.io/badge/-MateusVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateussvieira)](https://www.linkedin.com/in/mateussvieira)
+[![Gmail Badge](https://img.shields.io/badge/-mateuss.vieira.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuss.vieira.dev@gmail.com)](mailto:mateuss.vieira.dev@gmail.com)
+[![GitHub MateusSVieira]( https://img.shields.io/github/followers/MateusSVieira?label=follow&style=social)](https://github.com/MateusSVieira)
