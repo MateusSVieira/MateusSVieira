@@ -24,6 +24,8 @@
 
 <br/>
 
+![snake gif](https://github.com/MateusSVieira/MateusSVieira/blob/output/github-contribution-grid-snake.svg)
+
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Mateus Vieira](https://img.shields.io/badge/-MateusVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateussvieira)](https://www.linkedin.com/in/mateussvieira)
